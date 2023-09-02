@@ -144,3 +144,4 @@ docker compose -f docker-compose-dev.yml down
 - [ ] Update CI/CD with tests
 - [x] ~~Add warning about bandwidth~~
 - [ ] Implement an authentication check when [this PR](https://github.com/influxdata/influxdb-client-python/pull/269) is merged
+- [ ] 
